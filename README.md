@@ -8,3 +8,6 @@
 
 ## Kth Largest Element from an array
 **Solved using *priority queue***
+
+## Symmetric Binary Tree
+**Solved using *Recursion***
