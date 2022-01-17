@@ -11,3 +11,6 @@
 
 ## Symmetric Binary Tree
 **Solved using *Recursion***
+
+## Generated Valid Parentheses
+**Created using *Backtracking***
