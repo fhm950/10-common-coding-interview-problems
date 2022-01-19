@@ -17,3 +17,6 @@
 
 ## Gas Station Problem
 **Solved using *Two Different Approaches and compare their complexity***
+
+## Course Schedule Problem
+**Solved using *Depth-First Search and Breadth-First Search***
