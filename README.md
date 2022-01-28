@@ -23,3 +23,6 @@
 
 ## Kth Permutation Problem
 **Solved using *Brute-Force Search and Depth-First Search***
+
+## Minimum Window Substring
+**Solved using *Three different approaches to figure out which one has less time and space complexity***
