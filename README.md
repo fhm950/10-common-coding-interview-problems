@@ -20,3 +20,6 @@
 
 ## Course Schedule Problem
 **Solved using *Depth-First Search and Breadth-First Search***
+
+## Kth Permutation Problem
+**Solved using *Brute-Force Search and Depth-First Search***

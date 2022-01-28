@@ -55,8 +55,8 @@ def gas_station(gas, cost) -> int:
         return candidate
 
 if __name__ == '__main__':
-    gas = [1, 5, 3, 3, 5, 3, 1, 3, 4, 5]
-    cost = [5, 2, 2, 8, 2, 4, 2, 5, 1, 2]
+    gas = [1,2,3,4,5]
+    cost = [3,4,5,1,2]
     result = gas_station(gas, cost)
     print(f'The index of the station is {result}')
 
